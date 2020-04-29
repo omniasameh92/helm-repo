@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  backend:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-29T18:35:48.902085529+02:00"
+    description: A Helm chart for Guestbook Backend 1.0
+    digest: aa62a088ab2a7e92abc1e2d1dec8b133a93bc062e5662999212c5e55aa86a98e
+    name: backend
+    urls:
+    - backend-0.1.0.tgz
+    version: 0.1.0
+  database:
+  - apiVersion: v1
+    appVersion: "3.6"
+    created: "2020-04-29T18:35:48.902254603+02:00"
+    description: A Helm chart for Guestbook Database Mongodb 3.6
+    digest: ea6cf97abcb0b5698b336ff1df889cb27c10a0a037ee596aa29dfc4832cfe73c
+    name: database
+    urls:
+    - database-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-29T18:35:48.901716725+02:00"
